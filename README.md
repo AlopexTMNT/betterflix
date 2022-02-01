@@ -1,2 +1,2 @@
 # betterflix
-Betterflix a minimal version on mpaflix
+Betterflix a minimal version of mpaflix
